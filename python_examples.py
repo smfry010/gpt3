@@ -1,3 +1,5 @@
+#python -m venv base
+
 import os
 import openai
 
